@@ -6,3 +6,4 @@
 3. Upload *change-passwd.php* to root folder of your website.
 4. Access domain/change-passwd.php in the browser.
 5. If you see the "Success" message, the password is changed successfully.
+6. Delete *change-passwd.php* from your host.
