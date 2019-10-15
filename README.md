@@ -1,4 +1,4 @@
-# wordpress-change-password
+# WordPress-change-password
 
 ## Usage
 1. Download *change-passwd.php*.
